@@ -258,20 +258,6 @@
                 </div>
             </div>
             <div class="dropdown-container">
-                <div class="dropdown-btn" id="collabDropdownBtn" style="background-color: #9c27b0; color: #fff;">
-                    Collaborations
-                </div>
-                <div class="dropdown-menu" id="collabDropdownMenu">
-                    <div class="dropdown-header">
-                        <span class="dropdown-action" id="selectAllCollaborations">Select All</span>
-                        <span class="dropdown-action" id="deselectAllCollaborations">Deselect All</span>
-                    </div>
-                    <div id="collabDropdownItems">
-                        <!-- 动态生成 -->
-                    </div>
-                </div>
-            </div>
-            <div class="dropdown-container">
                 <div class="dropdown-btn" id="focusAreaDropdownBtn" style="background-color: #0065bd; color: #fff;">
                     TUM Focus Area
                 </div>
@@ -364,7 +350,21 @@
         };
         
         // 定义哪些机构属于 collaborations
-        const collaborationInstitutes = new Set(['MUDS', 'MCML']);
+        // Collaborations are now part of Institutes (category "Other TUM"), so this set stays empty.
+        const collaborationInstitutes = new Set();
+
+        const INST_TYPE_ORDER = ['TUM IRI', 'Other TUM', 'Other'];
+        const INST_TYPE_LABEL = { 'TUM IRI': 'TUM IRIs', 'Other TUM': 'Other TUM Research Units', 'Other': 'Other Research Units' };
+        const INST_TYPE_STYLE = {
+            'TUM IRI':   { color: '#fcca00', border: '#f57f17', label: '#333' },
+            'Other TUM': { color: '#9c27b0', border: '#7b1fa2', label: '#fff' },
+            'Other':     { color: '#90a4ae', border: '#607d8b', label: '#fff' }
+        };
+        const instTypeMap = {}; // institute name -> category
+
+        function escapeHtml(s) {
+            return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        }
 
 
 
@@ -501,39 +501,42 @@
         // 初始化机构列表
         function initializeInstituteDropdown() {
             // 提取所有独特的机构（排除 collaborations）
-            const instSet = new Set();
             globalRawData.forEach(prof => {
-                if (prof.inst && prof.inst.length > 0) {
-                    prof.inst.forEach(inst => {
-                        // 排除 MUDS 和 MCML（它们属于 collaborations）
-                        if (!collaborationInstitutes.has(inst)) {
-                            instSet.add(inst);
-                        }
-                    });
-                }
+                (prof.inst || []).forEach(inst => {
+                    const type = (prof.inst_type && prof.inst_type[inst]) || 'Other';
+                    if (!instTypeMap[inst]) instTypeMap[inst] = type;
+                });
             });
-            
-            // 转换为数组并排序
-            allInstitutes = Array.from(instSet)
-                .map(name => ({ name }))
-                .sort((a, b) => a.name.localeCompare(b.name));
+
+            allInstitutes = Object.keys(instTypeMap)
+                .map(name => ({ name, type: instTypeMap[name] }))
+                .sort((a, b) => {
+                    const t = INST_TYPE_ORDER.indexOf(a.type) - INST_TYPE_ORDER.indexOf(b.type);
+                    return t !== 0 ? t : a.name.localeCompare(b.name);
+                });
             
             // 默认全不选
             state.activeInstitutes = new Set();
             
-            // 生成下拉菜单项
+            // 生成下拉菜单项（按类别分组）
             const container = $('#instDropdownItems');
             container.empty();
+            let lastType = null;
             
             allInstitutes.forEach((inst, index) => {
+                if (inst.type !== lastType) {
+                    container.append($(`<div class="dropdown-dept-divider">${INST_TYPE_LABEL[inst.type]}</div>`));
+                    lastType = inst.type;
+                }
+                const s = INST_TYPE_STYLE[inst.type];
                 const safeId = `inst_${index}`;
                 const item = $(`
                     <div class="dropdown-item">
                         <input type="checkbox" class="dropdown-checkbox inst-checkbox" id="${safeId}" 
-                               data-inst="${inst.name}">
+                               data-inst-index="${index}">
                         <label class="dropdown-label" for="${safeId}" 
-                               style="background-color: #fcca00; color: #333;">
-                            ${inst.name}
+                               style="background-color: ${s.color}; color: ${s.label};">
+                            ${escapeHtml(inst.name)}
                         </label>
                     </div>
                 `);
@@ -542,7 +545,9 @@
             
             // 绑定复选框事件
             $(document).on('change', '.inst-checkbox', function() {
-                const instName = $(this).data('inst');
+                const entry = allInstitutes[$(this).data('instIndex')];
+                if (!entry) return;
+                const instName = entry.name;
                 if ($(this).is(':checked')) {
                     state.activeInstitutes.add(instName);
                 } else {
@@ -737,7 +742,6 @@
             myChart.hideLoading();
             initializeInstituteDropdown();
             initializeGroupDropdown();
-            initializeCollaborationDropdown();
             initializeFocusAreaDropdown();
             updateGraph();
         }).fail(function(){ alert("Error loading json"); });
@@ -774,7 +778,10 @@
                     const s = type === 'focusArea' ? styles.focusArea : styles[type];
                     node.symbolSize = (type === 'inst' || type === 'collaboration' || type === 'focusArea') ? 45 : 35;
                     
-                    if (type === 'group' && parentDept && deptStyle[parentDept]) {
+                    if (type === 'inst') {
+                        const is = INST_TYPE_STYLE[instTypeMap[name]] || s;
+                        node.itemStyle = { color: is.color, borderColor: is.border, borderWidth: 2 };
+                    } else if (type === 'group' && parentDept && deptStyle[parentDept]) {
                         const deptBorderColor = deptStyle[parentDept].border;
                         node.itemStyle = { color: s.color, borderColor: deptBorderColor, borderWidth: 2 };
                     } else {
