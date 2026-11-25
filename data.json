@@ -2,7 +2,11 @@
   {
     "name": "Prof. Dr. rer. nat. Dr.-Ing. Holger Boche",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "6G Life",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Communications",
@@ -66,7 +70,10 @@
   {
     "name": "Prof. Dr.-Ing. Robert Wille",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
@@ -133,7 +140,8 @@
     "name": "Prof. Dr. rer. nat. Martin Schulz",
     "dept": "CE",
     "inst": [
-      "MUDS"
+      "MUDS",
+      "MQV"
     ],
     "research_group": [
       {
@@ -208,7 +216,8 @@
     "name": "Prof. Dr.-Ing. Wolfgang Kellerer",
     "dept": "CE",
     "inst": [
-      "MIRMI"
+      "MIRMI",
+      "6G Life"
     ],
     "research_group": [
       {
@@ -406,7 +415,10 @@
   {
     "name": "Prof. Dr. phil. Tobias Vogl",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Communications",
@@ -739,7 +751,9 @@
   {
     "name": "Prof. Dr.sc. tech. Gerhard Kramer",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "MQV"
+    ],
     "research_group": [
       {
         "group_name": "Analysis & Partial Differential Equations (PDE)",
@@ -767,7 +781,10 @@
   {
     "name": "Prof. Dr. rer. nat. Christian Mendl",
     "dept": "CS",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Design of Electronic Circuits and Systems",
@@ -842,7 +859,10 @@
   {
     "name": "Prof. Dr. rer. nat. Kai Müller",
     "dept": "EE",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Design of Electronic Circuits and Systems",
@@ -915,7 +935,9 @@
   {
     "name": "Prof. Dr.-Ing. Christian Jirauschek",
     "dept": "EE",
-    "inst": [],
+    "inst": [
+      "MQV"
+    ],
     "research_group": [
       {
         "group_name": "Electronic, Optoelectronic and Hybrid Devices",
@@ -947,7 +969,9 @@
   {
     "name": "Prof. Dr.-Ing. Amelie Hagelauer",
     "dept": "EE",
-    "inst": [],
+    "inst": [
+      "6G Life"
+    ],
     "research_group": [
       {
         "group_name": "Design of Electronic Circuits and Systems",
@@ -1058,7 +1082,8 @@
     "name": "Prof. Dr.-Ing. Georg Carle",
     "dept": "CE",
     "inst": [
-      "MDSI"
+      "MDSI",
+      "6G Life"
     ],
     "research_group": [
       {
@@ -1135,7 +1160,9 @@
   {
     "name": "Prof. Dr.-Ing. Norbert Hanik",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "6G Life"
+    ],
     "research_group": [
       {
         "group_name": "Communications",
@@ -1249,7 +1276,9 @@
   {
     "name": "Prof. Dr.-Ing. Georg Sigl",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "6G Life"
+    ],
     "research_group": [
       {
         "group_name": "Design of Electronic Circuits and Systems",
@@ -1341,7 +1370,9 @@
   {
     "name": "Prof. Dr.-Ing. Jörg Ott",
     "dept": "CE",
-    "inst": [],
+    "inst": [
+      "6G Life"
+    ],
     "research_group": [
       {
         "group_name": "Communications",
@@ -1961,7 +1992,8 @@
     "name": "Prof. Dr.-Ing. Eckehard Steinbach",
     "dept": "CE",
     "inst": [
-      "MIRMI"
+      "MIRMI",
+      "6G Life"
     ],
     "research_group": [
       {
@@ -1987,7 +2019,10 @@
   {
     "name": "Prof. Dr. Simone Warzel",
     "dept": "MATH",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
@@ -2052,7 +2087,8 @@
     "dept": "CE",
     "inst": [
       "MIRMI",
-      "MDSI"
+      "MDSI",
+      "6G Life"
     ],
     "research_group": [
       {
@@ -2212,7 +2248,8 @@
     "dept": "CE",
     "inst": [
       "MIRMI",
-      "MIBE"
+      "MIBE",
+      "One Munich Strategy Forum"
     ],
     "research_group": [
       {
@@ -2256,7 +2293,9 @@
     "dept": "CE",
     "inst": [
       "MIRMI",
-      "MCML"
+      "MCML",
+      "6G Life",
+      "One Munich Strategy Forum"
     ],
     "research_group": [
       {
@@ -2294,7 +2333,10 @@
   {
     "name": "Prof. Dr. Robert König",
     "dept": "MATH",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Mathematical Physics",
@@ -2491,7 +2533,10 @@
   {
     "name": "Prof. Dr. Michael-Marc Wolf",
     "dept": "MATH",
-    "inst": [],
+    "inst": [
+      "MQV",
+      "MCQST"
+    ],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
@@ -2792,7 +2837,8 @@
     "name": "Prof. Dr. M.Sc. Alexander König",
     "dept": "CE",
     "inst": [
-      "MIRMI"
+      "MIRMI",
+      "MDI"
     ],
     "research_group": [
       {
@@ -3019,7 +3065,9 @@
   {
     "name": "Velvet Spors",
     "dept": "CS",
-    "inst": [],
+    "inst": [
+      "MDI"
+    ],
     "research_group": [
       {
         "group_name": "Human-centered Engineering",
