@@ -1,133 +1,33 @@
 [
   {
-    "name": "Prof. Dr.-Ing. Robert Wille",
+    "name": "Prof. Dr. rer. nat. Dr.-Ing. Holger Boche",
     "dept": "CE",
-    "inst": [
-      "MCQST",
-      "MQV"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM"
-    },
+    "inst": [],
     "research_group": [
       {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "High-Performance Communication Systems and Technologies",
-      "Micro- and Nanoelectronics",
-      "Quantum Sciences & Technology",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. M.Sc. Alexander König",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "MDI"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MDI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Christian Mendl",
-    "dept": "CS",
-    "inst": [
-      "MCQST",
-      "MQV"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
+        "group_name": "Communications",
         "group_dept": "CE"
       },
       {
-        "group_name": "Mathematical Physics",
+        "group_name": "Data & Information",
         "group_dept": "MATH"
       },
       {
-        "group_name": "Quantum Engineering",
-        "group_dept": "EE"
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
       }
     ],
-    "TUM Focus Area": [
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Michael Georg-Bader",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [],
     "TUM Focus Area": [],
     "website": ""
   },
   {
-    "name": "Prof. Dr. rer. nat. Franz Kreupl",
-    "dept": "EE",
+    "name": "Prof. Dr.-Ing. Antonia Wachter-Zeh",
+    "dept": "CE",
     "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Integrated Materials, Energy, and Process Engineering",
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Jürgen Pfeffer",
-    "dept": "CS",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. habil. Gregor Kemper",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
     "research_group": [
       {
         "group_name": "Algebra & Algebraic Geometry",
@@ -138,521 +38,38 @@
         "group_dept": "CS"
       },
       {
-        "group_name": "Geometry & Topology",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. phil. Tobias Vogl",
-    "dept": "CE",
-    "inst": [
-      "MCQST",
-      "MQV"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM"
-    },
-    "research_group": [
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
       {
-        "group_name": "Computer & Communication Systems",
+        "group_name": "Communications",
         "group_dept": "CE"
       },
       {
-        "group_name": "Quantum Engineering",
-        "group_dept": "EE"
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
       },
       {
         "group_name": "Quantum Science",
         "group_dept": "MATH"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
       }
     ],
     "TUM Focus Area": [
-      "Aerospace and Geodesy",
-      "Cyber Security",
-      "Quantum Sciences & Technology"
+      "Cybersecurity"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Francisco-Javier Esparza-Estaun",
-    "dept": "CS",
-    "inst": [
-      "Max Planck Institute for Software Systems",
-      "University of Bordeaux",
-      "Universidad Complutense de Madrid"
-    ],
-    "inst_type": {
-      "Max Planck Institute for Software Systems": "Other",
-      "University of Bordeaux": "Other",
-      "Universidad Complutense de Madrid": "Other"
-    },
+    "name": "Prof. Dr.-Ing. Robert Wille",
+    "dept": "CE",
+    "inst": [],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Kai Müller",
-    "dept": "EE",
-    "inst": [
-      "MCQST",
-      "MQV",
-      "ZEITlab",
-      "ZQE",
-      "WSI"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM",
-      "ZEITlab": "Other",
-      "ZQE": "Other",
-      "WSI": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Quantum Engineering",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Micro- and Nanoelectronics",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Julia Schnabel",
-    "dept": "CS",
-    "inst": [
-      "MIBE",
-      "MDSI",
-      "MCML",
-      "MUDS",
-      "relAI",
-      "Max Planck School of Biomedical AI",
-      "ELLIS Munich",
-      "M1 Alliance",
-      "NaKo"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM",
-      "relAI": "Other",
-      "Max Planck School of Biomedical AI": "Other",
-      "ELLIS Munich": "Other",
-      "M1 Alliance": "Other",
-      "NaKo": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Digital Biology & Digital Medicine",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Visualization & Imaging",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Biomedical Engineering",
-      "Cancer Research",
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention",
-      "Neurosciences"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Christian Kühn",
-    "dept": "MATH",
-    "inst": [
-      "MDSI",
-      "MCML",
-      "MUDS"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning",
-      "Neurosciences"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Julien Gagneur",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML",
-      "MUDS",
-      "NFDI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM",
-      "NFDI": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Digital Biology & Digital Medicine",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Viktor Leis",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Data Engineering & Cloud Systems",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Univ.-Prof. Dr. Daniel Rückert",
-    "dept": "CS",
-    "inst": [
-      "MIBE",
-      "MDSI",
-      "MCML",
-      "MUDS",
-      "Center for Digital Medicine and Health"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM",
-      "Center for Digital Medicine and Health": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Digital Biology & Digital Medicine",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Visual Computing",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Visualization & Imaging",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Biomedical Engineering",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Hartwig Anzt",
-    "dept": "CS",
-    "inst": [
-      "EuroHPC"
-    ],
-    "inst_type": {
-      "EuroHPC": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Extreme Scaling",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "High-Performance Communication Systems and Technologies",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Andrea Stocco",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Aerospace and Geodesy",
-      "Artificial Machine Intelligence and Robotics",
-      "Cyber Security",
-      "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
-      "Software Engineering",
-      "Sustainable Agriculture & Nutrition",
-      "Sustainable and Intelligent Mobility & Urban Planning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Ph.D. Donna Ankerst",
-    "dept": "MATH",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cancer Research",
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Niki Kilbertus",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML",
-      "MUDS",
-      "ELLIS Munich"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM",
-      "ELLIS Munich": "Other"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Wolfgang Utschick",
-    "dept": "CE",
-    "inst": [
-      "MDSI",
-      "TUM Georg Nemetschek Institute"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "TUM Georg Nemetschek Institute": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Matthias Althoff",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "MCML",
-      "relAI",
-      "METEOR",
-      "ConVeY"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MCML": "Other TUM",
-      "relAI": "Other",
-      "METEOR": "Other",
-      "ConVeY": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Embedded and Cyberphysical Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "Sustainable and Intelligent Mobility & Urban Planning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Werner Hemmert",
-    "dept": "CE",
-    "inst": [
-      "MIBE",
-      "MIRMI",
-      "BCCN",
-      "GSN"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MIRMI": "TUM IRI",
-      "BCCN": "Other",
-      "GSN": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronics for Life-Sciences",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Neuro-Engineering",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Neurosciences"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Can Dincer",
-    "dept": "EE",
-    "inst": [
-      "MIBE"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
       {
@@ -660,7 +77,112 @@
         "group_dept": "CE"
       },
       {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "High-Performance Communication Systems and Technologies",
+      "Quantum Science and Technology",
+      "Micro- and Nanoelectronics",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. habil. Markus Becherer",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Martin Schulz",
+    "dept": "CE",
+    "inst": [
+      "MUDS"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Extreme Scaling",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Optimization",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Franz Kreupl",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
         "group_dept": "EE"
       },
       {
@@ -668,36 +190,165 @@
         "group_dept": "EE"
       },
       {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
       },
       {
-        "group_name": "Life Science",
+        "group_name": "Engineering",
         "group_dept": "MATH"
       }
     ],
     "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Cancer Research",
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention",
       "Integrated Materials, Energy, and Process Engineering",
       "Micro- and Nanoelectronics"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr. rer. nat. Christina Kuttler",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
+    "name": "Prof. Dr.-Ing. Wolfgang Kellerer",
+    "dept": "CE",
+    "inst": [
+      "MIRMI"
+    ],
     "research_group": [
       {
-        "group_name": "Analysis & PDE",
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Lorenz Panny",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algebra & Algebraic Geometry",
         "group_dept": "MATH"
       },
       {
-        "group_name": "Life Science",
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Murad Alim",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algebra & Algebraic Geometry",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology",
+      "Astro- and Particle Physics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. habil. Gregor Kemper",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algebra & Algebraic Geometry",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Christian Liedtke",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algebra & Algebraic Geometry",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Geometry & Topology",
         "group_dept": "MATH"
       }
     ],
@@ -707,12 +358,7 @@
   {
     "name": "Prof. Dr. rer. nat. Andreas Schulz",
     "dept": "MATH",
-    "inst": [
-      "AdONE"
-    ],
-    "inst_type": {
-      "AdONE": "Other"
-    },
+    "inst": [],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
@@ -737,14 +383,996 @@
     "website": ""
   },
   {
+    "name": "Prof. Dr. rer. nat. Stefan Weltge",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. phil. Tobias Vogl",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Aerospace and Geodesy",
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Susanne Albers",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Energy Infrastructures and Sustainable Systems",
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Felix Brandt",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Martin Bichler",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems",
+      "Machine Intelligence and Robotics",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Ph.D. Debarghya Ghoshdastidar",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Stephan Günnemann",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Michael Georg-Bader",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Extreme Scaling",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Francisco-Javier Esparza-Estaun",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Gero Friesecke",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Optimization",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Christina Kuttler",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Johannes Müller",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Johannes Zimmer",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Nils Thürey",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visual Computing",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "High-Performance Communication Systems and Technologies",
+      "Climate Research and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.sc. tech. Gerhard Kramer",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Christian Mendl",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Wolfgang Utschick",
+    "dept": "CE",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.sc. ETH Zürich Jana Giceva-Makreshanska",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Kai Müller",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Quantum Science and Technology",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Viktor Leis",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Ph.D. Donna Ankerst",
+    "dept": "MATH",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Cancer Research"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Christian Jirauschek",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Amelie Hagelauer",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Julien Gagneur",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MUDS",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Rüdiger Westermann",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visual Computing",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Climate Research and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Andreas Wiese",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Georg Carle",
+    "dept": "CE",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Data Science and Machine Learning",
+      "High-Performance Communication Systems and Technologies",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Daniel Matthes",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Thomas Eibert",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Norbert Hanik",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Oliver Hayden",
+    "dept": "EE",
+    "inst": [
+      "MIBE"
+    ],
+    "research_group": [
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Digital Medicine and Personalised Prevention",
+      "Cancer Research",
+      "Immunology and Infection Biology",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Jia Chen",
+    "dept": "EE",
+    "inst": [
+      "MIRMI",
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Sebastian Steinhorst",
+    "dept": "CE",
+    "inst": [
+      "MIRMI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Digital Medicine and Personalised Prevention",
+      "High-Performance Communication Systems and Technologies",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Georg Sigl",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. habil. Tim-Nikolai Hoffmann",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Stephan Krusche",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Jörg Ott",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "High-Performance Communication Systems and Technologies",
+      "Aerospace and Geodesy"
+    ],
+    "website": ""
+  },
+  {
     "name": "Prof. Dr. rer. nat. Florian Matthes",
     "dept": "CS",
     "inst": [
       "MDSI"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
     "research_group": [
       {
         "group_name": "Data Engineering & Cloud Systems",
@@ -763,63 +1391,112 @@
         "group_dept": "CE"
       },
       {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
         "group_name": "Information Systems & Software Engineering",
         "group_dept": "CS"
       }
     ],
     "TUM Focus Area": [
       "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention",
+      "Digital Medicine and Personalised Prevention",
       "Engineering-Related Social Sciences and Human- & Society-Centered Design",
       "Software Engineering"
     ],
     "website": ""
   },
   {
-    "name": "Velvet Spors",
-    "dept": "CE",
-    "inst": [
-      "MDI"
-    ],
-    "inst_type": {
-      "MDI": "TUM IRI"
-    },
+    "name": "Prof. Dr. rer. nat. Stefanie Rinderle-Ma",
+    "dept": "CS",
+    "inst": [],
     "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
       {
         "group_name": "Human-centered Engineering",
         "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Thomas Eibert",
-    "dept": "EE",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
+      },
       {
-        "group_name": "Electromagnetic Sensors and Measurement Systems",
-        "group_dept": "EE"
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
       }
     ],
     "TUM Focus Area": [
-      "High-Performance Communication Systems and Technologies"
+      "Data Science and Machine Learning",
+      "Software Engineering"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Ph.D. Stephen Kobourov",
+    "name": "Prof. Dr. rer. nat. Luise Pufahl",
     "dept": "CS",
     "inst": [],
-    "inst_type": {},
     "research_group": [
       {
-        "group_name": "Algorithms & Complexity",
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Matthias Scherer",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Finance & Insurance",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Rudi Zagst",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
         "group_dept": "CS"
       },
       {
@@ -831,8 +1508,689 @@
         "group_dept": "MATH"
       },
       {
+        "group_name": "Finance & Insurance",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Climate Research and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Fabian Theis",
+    "dept": "MATH",
+    "inst": [
+      "MDSI",
+      "MUDS",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Michael Ulbrich",
+    "dept": "MATH",
+    "inst": [
+      "MIRMI",
+      "MEP"
+    ],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Optimization",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Alessio Gagliardi",
+    "dept": "EE",
+    "inst": [
+      "MDSI",
+      "MEP"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Christian Kühn",
+    "dept": "MATH",
+    "inst": [
+      "MDSI",
+      "MUDS",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Climate Research and Technologies",
+      "Machine Intelligence and Robotics",
+      "Neurosciences"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Bernhard Seeber",
+    "dept": "CE",
+    "inst": [
+      "MIRMI",
+      "MIBE"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Machine Intelligence and Robotics",
+      "Neurosciences",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Ralf Brederlow",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Werner Hemmert",
+    "dept": "CE",
+    "inst": [
+      "MIRMI",
+      "MIBE"
+    ],
+    "research_group": [
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Neurosciences"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Kristen Kozielski",
+    "dept": "EE",
+    "inst": [
+      "MIRMI",
+      "MIBE"
+    ],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Neurosciences",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Bernhard Wolfrum",
+    "dept": "EE",
+    "inst": [
+      "MIRMI",
+      "MIBE"
+    ],
+    "research_group": [
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Barbara Wohlmuth",
+    "dept": "MATH",
+    "inst": [
+      "MEP"
+    ],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Eric Sonnendrücker",
+    "dept": "MATH",
+    "inst": [
+      "MUDS"
+    ],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems",
+      "Astro- and Particle Physics",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. habil. Nina Gantert",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Silke Rolles",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Eckehard Steinbach",
+    "dept": "CE",
+    "inst": [
+      "MIRMI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Visual Computing",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "High-Performance Communication Systems and Technologies",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Simone Warzel",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Matthias Althoff",
+    "dept": "CE",
+    "inst": [
+      "MIRMI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Energy Infrastructures and Sustainable Systems",
+      "Machine Intelligence and Robotics",
+      "Sustainable Urban Mobility"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Sandra Hirche",
+    "dept": "CE",
+    "inst": [
+      "MIRMI",
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. habil. Alois-Christian Knoll",
+    "dept": "CE",
+    "inst": [
+      "MIRMI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Optimization",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Elisabeth Ullmann",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Ph.D. Mathias Drton",
+    "dept": "MATH",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Algebra & Algebraic Geometry",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Finance & Insurance",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Probability and Statistics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Ph.D. Angela Dai",
+    "dept": "CS",
+    "inst": [
+      "MIRMI",
+      "MUDS"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
         "group_name": "Geometry & Topology",
         "group_dept": "MATH"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
       },
       {
         "group_name": "Visual Computing",
@@ -844,42 +2202,149 @@
       }
     ],
     "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr. Martin Bichler",
-    "dept": "CS",
+    "name": "Prof. Dr. Cristina Piazza",
+    "dept": "CE",
     "inst": [
-      "MDSI"
+      "MIRMI",
+      "MIBE"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
     "research_group": [
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Algorithmic Economics & Operations Research",
-        "group_dept": "CS"
-      },
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
       {
-        "group_name": "Information Systems & Software Engineering",
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Machine Intelligence and Robotics",
+      "Neurosciences"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.sc. ETH Zürich Angela Schöllig",
+    "dept": "CE",
+    "inst": [
+      "MIRMI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Extreme Scaling",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Visual Computing",
         "group_dept": "CS"
       }
     ],
     "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
       "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems",
+      "Machine Intelligence and Robotics",
+      "Aerospace and Geodesy"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Robert König",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Stefan Bauer",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Alexander Fraser",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
       "Engineering-Related Social Sciences and Human- & Society-Centered Design"
     ],
     "website": ""
@@ -891,918 +2356,87 @@
       "MDSI",
       "MCML"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Daniel Matthes",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Geometry & Topology",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Ali Sunyaev",
-    "dept": "CS",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Christian Jirauschek",
-    "dept": "EE",
-    "inst": [
-      "MQV"
-    ],
-    "inst_type": {
-      "MQV": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Electromagnetic Sensors and Measurement Systems",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Quantum Engineering",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Micro- and Nanoelectronics",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Eric Sonnendrücker",
-    "dept": "MATH",
-    "inst": [
-      "MUDS"
-    ],
-    "inst_type": {
-      "MUDS": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Astro- and Particle Physics",
-      "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Kristen Kozielski",
-    "dept": "EE",
-    "inst": [
-      "MIBE",
-      "MIRMI"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MIRMI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Electronics for Life-Sciences",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Neuro-Engineering",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Micro- and Nanoelectronics",
-      "Neurosciences"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Matthias Scherer",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
-      },
-      {
-        "group_name": "Finance & Insurance",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
       }
     ],
     "TUM Focus Area": [
-      "Cyber Security",
       "Data Science and Machine Learning"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Chunyang Chen",
-    "dept": "CS",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Data Science and Machine Learning",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Reto Achermann",
-    "dept": "CE",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "High-Performance Communication Systems and Technologies",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Stephan Günnemann",
+    "name": "Prof. Dr. Niki Kilbertus",
     "dept": "CS",
     "inst": [
       "MDSI",
-      "MCML",
-      "relAI"
+      "MUDS",
+      "MCML"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "relAI": "Other"
-    },
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
       }
     ],
     "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Andreas Wiese",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Algorithmic Economics & Operations Research",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Stefan Weltge",
-    "dept": "MATH",
-    "inst": [
-      "AdONE"
-    ],
-    "inst_type": {
-      "AdONE": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Clemens Thielen",
-    "dept": "CS",
-    "inst": [
-      "TUM Campus Straubing"
-    ],
-    "inst_type": {
-      "TUM Campus Straubing": "Other"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Circular Economy and Bioeconomy",
       "Data Science and Machine Learning",
-      "Sustainable and Intelligent Mobility & Urban Planning"
+      "Machine Intelligence and Robotics"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr.-Ing. Antonia Wachter-Zeh",
-    "dept": "CE",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algebra & Algebraic Geometry",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Distributed & Mobile Computing",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Security",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. habil. Markus Becherer",
-    "dept": "EE",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Rudi Zagst",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algorithmic Economics & Operations Research",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Finance & Insurance",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Sebastian Werner",
+    "name": "Prof. Dr. Julia Schnabel",
     "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Cyber Security",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Ralf Brederlow",
-    "dept": "EE",
     "inst": [
-      "CoC DECS"
+      "MDSI",
+      "MIBE",
+      "MUDS",
+      "MCML"
     ],
-    "inst_type": {
-      "CoC DECS": "Other"
-    },
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Security",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Wilhelm Wimmer",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
       {
         "group_name": "Digital Biology & Digital Medicine",
         "group_dept": "CS"
       },
       {
-        "group_name": "Neuro-Engineering",
-        "group_dept": "EE"
-      },
-      {
         "group_name": "Visualization & Imaging",
         "group_dept": "MATH"
       }
     ],
     "TUM Focus Area": [
       "Biomedical Engineering",
-      "Digital Medicine and Personalized Prevention",
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Cancer Research",
+      "Machine Intelligence and Robotics",
       "Neurosciences"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr. techn. Johanna Pirker",
-    "dept": "CS",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Luise Pufahl",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Silke Rolles",
-    "dept": "MATH",
-    "inst": [
-      "DFG SPP 2265"
-    ],
-    "inst_type": {
-      "DFG SPP 2265": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Oliver Junge",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Norbert Hanik",
-    "dept": "CE",
-    "inst": [
-      "6G Life"
-    ],
-    "inst_type": {
-      "6G Life": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Nils Thürey",
+    "name": "Univ.-Prof. Dr. Daniel Rückert",
     "dept": "CS",
     "inst": [
       "MDSI",
+      "MIBE",
+      "MUDS",
       "MCML"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
       {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Bernhard Wolfrum",
-    "dept": "EE",
-    "inst": [
-      "MIBE",
-      "MIRMI",
-      "Biosystem Cluster",
-      "ZEITlab",
-      "COS (Center for Organoid Systems)",
-      "ARTEMIS Innovation Network",
-      "NEUROTECH Innovation Network"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MIRMI": "TUM IRI",
-      "Biosystem Cluster": "Other",
-      "ZEITlab": "Other",
-      "COS (Center for Organoid Systems)": "Other",
-      "ARTEMIS Innovation Network": "Other",
-      "NEUROTECH Innovation Network": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Electronics for Life-Sciences",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Electromagnetic Sensors and Measurement Systems",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Neuro-Engineering",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. habil. Folkmar Bornemann",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Bernhard Seeber",
-    "dept": "CE",
-    "inst": [
-      "MIBE",
-      "MIRMI",
-      "BCCN",
-      "GSN"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MIRMI": "TUM IRI",
-      "BCCN": "Other",
-      "GSN": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Electronics for Life-Sciences",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Neuro-Engineering",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Biomedical Engineering",
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
-      "Neurosciences",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Christian Liedtke",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Geometry & Topology",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Georg Sigl",
-    "dept": "CE",
-    "inst": [
-      "6G Life"
-    ],
-    "inst_type": {
-      "6G Life": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Stefan Wagner",
-    "dept": "CS",
-    "inst": [
-      "Joint Global AI Research Hub Heilbronn"
-    ],
-    "inst_type": {
-      "Joint Global AI Research Hub Heilbronn": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_name": "Digital Biology & Digital Medicine",
         "group_dept": "CS"
-      },
-      {
-        "group_name": "Distributed & Mobile Computing",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Embedded and Cyberphysical Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Human-centered Engineering",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Markus Götz",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Extreme Scaling",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Optimization",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Stefan Bauer",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Biomedical Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Oliver Hayden",
-    "dept": "EE",
-    "inst": [
-      "MIBE",
-      "TUMCREATE Singapore"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "TUMCREATE Singapore": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Electronics for Life-Sciences",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Electromagnetic Sensors and Measurement Systems",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Visualization & Imaging",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Cancer Research",
-      "Digital Medicine and Personalized Prevention",
-      "Immunology and Infection Biology",
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Simone Warzel",
-    "dept": "MATH",
-    "inst": [
-      "MCQST",
-      "MQV"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Rüdiger Westermann",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
       },
       {
         "group_name": "Visual Computing",
@@ -1814,67 +2448,9 @@
       }
     ],
     "TUM Focus Area": [
-      "Climate Research and Technologies",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Elisabeth Ullmann",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Jana Diesner",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Human-centered Engineering",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
+      "Biomedical Engineering",
+      "Digital Medicine and Personalised Prevention",
+      "Machine Intelligence and Robotics"
     ],
     "website": ""
   },
@@ -1885,10 +2461,6 @@
       "MIBE",
       "MEP"
     ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MEP": "TUM IRI"
-    },
     "research_group": [
       {
         "group_name": "Electronics for Life-Sciences",
@@ -1909,61 +2481,88 @@
     ],
     "TUM Focus Area": [
       "Biomedical Engineering",
+      "Digital Medicine and Personalised Prevention",
+      "Integrated Materials, Energy, and Process Engineering",
       "Cancer Research",
-      "Digital Medicine and Personalized Prevention",
-      "Immunology and Infection Biology",
-      "Integrated Materials, Energy, and Process Engineering"
+      "Immunology and Infection Biology"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr. rer. nat. Martin Schulz",
-    "dept": "CE",
-    "inst": [
-      "MUDS",
-      "MQV"
-    ],
-    "inst_type": {
-      "MUDS": "Other TUM",
-      "MQV": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Gero Friesecke",
+    "name": "Prof. Dr. Michael-Marc Wolf",
     "dept": "MATH",
-    "inst": [
-      "DFG SPP Theoretical Foundations of Deep Learning"
-    ],
-    "inst_type": {
-      "DFG SPP Theoretical Foundations of Deep Learning": "Other"
-    },
+    "inst": [],
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
         "group_dept": "CS"
       },
       {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
       {
-        "group_name": "Life Science",
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Mathematical Physics",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Quantum Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Quantum Science",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Quantum Science and Technology"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Hartwig Anzt",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Extreme Scaling",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies",
+      "Climate Research and Technologies",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. habil. Folkmar Bornemann",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Analysis & Partial Differential Equations (PDE)",
         "group_dept": "MATH"
       },
       {
@@ -1975,150 +2574,7 @@
         "group_dept": "MATH"
       },
       {
-        "group_name": "Optimization",
-        "group_dept": "MATH"
-      },
-      {
         "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Ph.D. Mathias Drton",
-    "dept": "MATH",
-    "inst": [
-      "MDSI",
-      "MCML"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Finance & Insurance",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Amelie Hagelauer",
-    "dept": "EE",
-    "inst": [
-      "6G Life"
-    ],
-    "inst_type": {
-      "6G Life": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Micro- and Nanoelectronics",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Murad Alim",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algebra & Algebraic Geometry",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Geometry & Topology",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Astro- and Particle Physics",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Wolfgang Kellerer",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "6G Life"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "6G Life": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Stefanie Rinderle-Ma",
-    "dept": "CS",
-    "inst": [
-      "AdONE"
-    ],
-    "inst_type": {
-      "AdONE": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. habil. Tim-Nikolai Hoffmann",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Geometry & Topology",
         "group_dept": "MATH"
       }
     ],
@@ -2126,66 +2582,12 @@
     "website": ""
   },
   {
-    "name": "Prof. Dr. Sebastian Steinhorst",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "TUM Hyperloop",
-      "TUMCREATE Singapore"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "TUM Hyperloop": "Other",
-      "TUMCREATE Singapore": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Embedded and Cyberphysical Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Cyber Security",
-      "Digital Medicine and Personalized Prevention",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Florian Zuleger",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Stephan Krusche",
+    "name": "Prof. Chunyang Chen",
     "dept": "CS",
     "inst": [
       "MDSI"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
     "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
       {
         "group_name": "Human-centered Engineering",
         "group_dept": "CE"
@@ -2193,160 +2595,17 @@
       {
         "group_name": "Information Systems & Software Engineering",
         "group_dept": "CS"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
       }
     ],
     "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
+      "Cybersecurity",
       "Data Science and Machine Learning",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
       "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.sc. tech. Gerhard Kramer",
-    "dept": "CE",
-    "inst": [
-      "MQV"
-    ],
-    "inst_type": {
-      "MQV": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Felix Brandt",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Algorithmic Economics & Operations Research",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Alexander Fraser",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML",
-      "ELLIS Munich"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "ELLIS Munich": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Robert König",
-    "dept": "MATH",
-    "inst": [
-      "MCQST",
-      "MQV",
-      "SFB/TRR 352"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM",
-      "SFB/TRR 352": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Susanne Albers",
-    "dept": "CS",
-    "inst": [
-      "AdONE",
-      "ConVeY"
-    ],
-    "inst_type": {
-      "AdONE": "Other",
-      "ConVeY": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Algorithmic Economics & Operations Research",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Erika Covi",
-    "dept": "CE",
-    "inst": [
-      "CoC DECS"
-    ],
-    "inst_type": {
-      "CoC DECS": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Design of Electronic Circuits and Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Distributed & Mobile Computing",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Micro- and Nanoelectronics"
     ],
     "website": ""
   },
@@ -2354,7 +2613,6 @@
     "name": "Prof. Dr.-Ing. Maribel-Acosta Deibe",
     "dept": "CS",
     "inst": [],
-    "inst_type": {},
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
@@ -2379,14 +2637,8 @@
     "dept": "CS",
     "inst": [
       "MDSI",
-      "MCML",
-      "NFDI"
+      "MCML"
     ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "NFDI": "Other"
-    },
     "research_group": [
       {
         "group_name": "Algorithms & Complexity",
@@ -2395,357 +2647,14 @@
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
       },
       {
         "group_name": "Extreme Scaling",
         "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Lorenz Panny",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algebra & Algebraic Geometry",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Distributed & Mobile Computing",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Information Systems & Software Engineering",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Johannes Zimmer",
-    "dept": "MATH",
-    "inst": [
-      "TUMCREATE Singapore"
-    ],
-    "inst_type": {
-      "TUMCREATE Singapore": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Biomedical Engineering",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Alessio Gagliardi",
-    "dept": "EE",
-    "inst": [
-      "MDSI",
-      "MEP",
-      "AMC: Atomistic Modelling Center"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MEP": "TUM IRI",
-      "AMC: Atomistic Modelling Center": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Electronic, Optoelectronic & Hybrid Devices",
-        "group_dept": "EE"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems",
-      "Micro- and Nanoelectronics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. habil. Alois-Christian Knoll",
-    "dept": "CE",
-    "inst": [
-      "MIRMI"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Embedded and Cyberphysical Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Benjamin Nuß",
-    "dept": "EE",
-    "inst": [
-      "TUM Security and Defense Alliance"
-    ],
-    "inst_type": {
-      "TUM Security and Defense Alliance": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Michael Ulbrich",
-    "dept": "MATH",
-    "inst": [
-      "MIRMI",
-      "MEP"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MEP": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Numerics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Optimization",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Energy Infrastructure and Sustainable Energy Systems"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Fabian Theis",
-    "dept": "MATH",
-    "inst": [
-      "MDSI",
-      "MCML",
-      "MUDS"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM",
-      "MUDS": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Data & Information",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Digital Biology & Digital Medicine",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.sc. ETH Zürich Angela Schöllig",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "MCML",
-      "One Munich: Human-centered Robotics",
-      "6G Life",
-      "Robotics Institute Germany"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MCML": "Other TUM",
-      "One Munich: Human-centered Robotics": "Other TUM",
-      "6G Life": "Other TUM",
-      "Robotics Institute Germany": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Security",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Visual Computing",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Aerospace and Geodesy",
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Georg Carle",
-    "dept": "CE",
-    "inst": [
-      "MDSI",
-      "6G Life"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "6G Life": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Cyber Security",
-      "Data Science and Machine Learning",
-      "High-Performance Communication Systems and Technologies",
-      "Software Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Ph.D. Debarghya Ghoshdastidar",
-    "dept": "CS",
-    "inst": [
-      "MDSI",
-      "MCML"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI",
-      "MCML": "Other TUM"
-    },
-    "research_group": [
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Barbara Wohlmuth",
-    "dept": "MATH",
-    "inst": [
-      "MEP",
-      "UPLIFT",
-      "DFG SPP 2311"
-    ],
-    "inst_type": {
-      "MEP": "TUM IRI",
-      "UPLIFT": "Other",
-      "DFG SPP 2311": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
       },
       {
         "group_name": "Numerics",
@@ -2753,279 +2662,24 @@
       }
     ],
     "TUM Focus Area": [
-      "Biomedical Engineering"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. habil. Nina Gantert",
-    "dept": "MATH",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [],
-    "TUM Focus Area": [
       "Data Science and Machine Learning"
     ],
     "website": ""
   },
   {
-    "name": "Prof. Dr. Michael-Marc Wolf",
-    "dept": "MATH",
+    "name": "Prof. Dr.-Ing. Can Dincer",
+    "dept": "EE",
     "inst": [
-      "MCQST",
-      "MQV",
-      "SFB/TRR 352"
+      "MIBE"
     ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM",
-      "SFB/TRR 352": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Mathematical Physics",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Quantum Science",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [
-      "Quantum Sciences & Technology"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Johannes Müller",
-    "dept": "MATH",
-    "inst": [
-      "Conemessa (DAAD)"
-    ],
-    "inst_type": {
-      "Conemessa (DAAD)": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Analysis & PDE",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Life Science",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Probability and Statistics",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.sc. ETH Zürich Jana Giceva-Makreshanska",
-    "dept": "CS",
-    "inst": [
-      "MDSI"
-    ],
-    "inst_type": {
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [
-      {
-        "group_name": "Data Engineering & Cloud Systems",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Jörg Ott",
-    "dept": "CE",
-    "inst": [
-      "6G Life",
-      "CoC COM"
-    ],
-    "inst_type": {
-      "6G Life": "Other TUM",
-      "CoC COM": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Data Engineering & Cloud Systems",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Distributed & Mobile Computing",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Embedded and Cyberphysical Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Aerospace and Geodesy",
-      "Cyber Security",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Amr Alanwar",
-    "dept": "CS",
-    "inst": [],
-    "inst_type": {},
-    "research_group": [
-      {
-        "group_name": "Algorithms & Complexity",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Artificial Intelligence & Machine Learning",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      },
-      {
-        "group_name": "Formal Methods",
-        "group_dept": "CS"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Eckehard Steinbach",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "6G Life",
-      "6G Future Lab Bavaria"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "6G Life": "Other TUM",
-      "6G Future Lab Bavaria": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Visual Computing",
-        "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning",
-      "High-Performance Communication Systems and Technologies"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Ph.D. Angela Dai",
-    "dept": "CS",
-    "inst": [
-      "MIRMI",
-      "MUDS"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MUDS": "Other TUM"
-    },
     "research_group": [
       {
         "group_name": "Artificial Intelligence & Machine Learning",
         "group_dept": "CS"
       },
       {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      },
-      {
-        "group_name": "Visual Computing",
+        "group_name": "Data Engineering & Cloud Systems",
         "group_dept": "CS"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Sandra Hirche",
-    "dept": "CE",
-    "inst": [
-      "MIRMI",
-      "MDSI",
-      "6G Life",
-      "relAI",
-      "METEOR"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MDSI": "TUM IRI",
-      "6G Life": "Other TUM",
-      "relAI": "Other",
-      "METEOR": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Robotics & Autonomous Systems",
-        "group_dept": "CE"
-      }
-    ],
-    "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
-      "Biomedical Engineering",
-      "Data Science and Machine Learning",
-      "Digital Medicine and Personalized Prevention"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. rer. nat. Dr.-Ing. Holger Boche",
-    "dept": "CE",
-    "inst": [
-      "MCQST",
-      "MQV",
-      "6G Life",
-      "6G Future Lab Bavaria"
-    ],
-    "inst_type": {
-      "MCQST": "Other TUM",
-      "MQV": "Other TUM",
-      "6G Life": "Other TUM",
-      "6G Future Lab Bavaria": "Other"
-    },
-    "research_group": [
-      {
-        "group_name": "Computer & Communication Systems",
-        "group_dept": "CE"
       },
       {
         "group_name": "Data & Information",
@@ -3036,51 +2690,114 @@
         "group_dept": "CE"
       },
       {
-        "group_name": "Engineering",
-        "group_dept": "MATH"
-      }
-    ],
-    "TUM Focus Area": [],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr.-Ing. Jia Chen",
-    "dept": "EE",
-    "inst": [
-      "MIRMI",
-      "MDSI"
-    ],
-    "inst_type": {
-      "MIRMI": "TUM IRI",
-      "MDSI": "TUM IRI"
-    },
-    "research_group": [],
-    "TUM Focus Area": [
-      "Data Science and Machine Learning"
-    ],
-    "website": ""
-  },
-  {
-    "name": "Prof. Dr. Cristina Piazza",
-    "dept": "CE",
-    "inst": [
-      "MIBE",
-      "MIRMI",
-      "One Munich: Human-centered Robotics"
-    ],
-    "inst_type": {
-      "MIBE": "TUM IRI",
-      "MIRMI": "TUM IRI",
-      "One Munich: Human-centered Robotics": "Other TUM"
-    },
-    "research_group": [
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
       {
-        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Electronics for Life-Sciences",
         "group_dept": "EE"
       },
       {
         "group_name": "Engineering",
         "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Biomedical Engineering",
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Integrated Materials, Energy, and Process Engineering",
+      "Cancer Research",
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Oliver Junge",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Numerics",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Climate Research and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Ph.D. Stephen Kobourov",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Visual Computing",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. M.Sc. Alexander König",
+    "dept": "CE",
+    "inst": [
+      "MIRMI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
       },
       {
         "group_name": "Human-centered Engineering",
@@ -3096,9 +2813,481 @@
       }
     ],
     "TUM Focus Area": [
-      "Artificial Machine Intelligence and Robotics",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr.-Ing. Benjamin Nuß",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electromagnetic Sensors and Measurement Systems",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. techn. Johanna Pirker",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Andrea Stocco",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems",
+      "Machine Intelligence and Robotics",
+      "Aerospace and Geodesy",
+      "Sustainable Urban Mobility",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
+      "Software Engineering",
+      "Sustainable Agriculture & Nutrition"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. rer. nat. Ali Sunyaev",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Security, Safety, Risk Management",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Digital Medicine and Personalised Prevention",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Prof. Dr. Stefan Wagner",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Jürgen Pfeffer",
+    "dept": "CS",
+    "inst": [
+      "MDSI"
+    ],
+    "research_group": [
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Velvet Spors",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Digital Medicine and Personalised Prevention",
+      "Climate Research and Technologies"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Reto Achermann",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "High-Performance Communication Systems and Technologies",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Clemens Thielen",
+    "dept": "MATH",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Algorithmic Economics & Operations Research",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Climate Research and Technologies",
+      "Sustainable Urban Mobility",
+      "Circular Economy and Bioeconomy"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Sebastian Werner",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Data Engineering & Cloud Systems",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Cybersecurity",
+      "Climate Research and Technologies",
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Wilhelm Wimmer",
+    "dept": "EE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Digital Biology & Digital Medicine",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Geometry & Topology",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Neuro-Engineering",
+        "group_dept": "EE"
+      },
+      {
+        "group_name": "Visualization & Imaging",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
       "Biomedical Engineering",
+      "Digital Medicine and Personalised Prevention",
       "Neurosciences"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Markus Götz",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Communications",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Extreme Scaling",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Life Science",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Optimization",
+        "group_dept": "MATH"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Energy Infrastructures and Sustainable Systems",
+      "High-Performance Communication Systems and Technologies",
+      "Climate Research and Technologies",
+      "Machine Intelligence and Robotics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Jana Diesner",
+    "dept": "CS",
+    "inst": [
+      "MDSI",
+      "MCML"
+    ],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Data & Information",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Human-centered Engineering",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Data Science and Machine Learning",
+      "Engineering-Related Social Sciences and Human- & Society-Centered Design"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Florian Zuleger",
+    "dept": "CS",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Embedded and Cyber-physical Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Information Systems & Software Engineering",
+        "group_dept": "CS"
+      }
+    ],
+    "TUM Focus Area": [
+      "Software Engineering"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Erika Covi",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Design of Electronic Circuits and Systems",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Distributed & Mobile Computing",
+        "group_dept": "CE"
+      },
+      {
+        "group_name": "Electronic, Optoelectronic and Hybrid Devices",
+        "group_dept": "EE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Micro- and Nanoelectronics"
+    ],
+    "website": ""
+  },
+  {
+    "name": "Amr Alanwar",
+    "dept": "CE",
+    "inst": [],
+    "research_group": [
+      {
+        "group_name": "Algorithms & Complexity",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Artificial Intelligence & Machine Learning",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Engineering",
+        "group_dept": "MATH"
+      },
+      {
+        "group_name": "Formal Methods",
+        "group_dept": "CS"
+      },
+      {
+        "group_name": "Robotics & Autonomous Systems",
+        "group_dept": "CE"
+      }
+    ],
+    "TUM Focus Area": [
+      "Machine Intelligence and Robotics"
     ],
     "website": ""
   }
